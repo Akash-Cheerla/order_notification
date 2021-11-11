@@ -1,0 +1,10 @@
+{
+    "host": "0.0.0.0",
+    "port": 4046,
+    "logs": {
+        "filepath": "logs/order.log",
+        "level": "DEBUG",
+        "rotation": "1 week"
+    },
+    "min_order_length": 10
+}
